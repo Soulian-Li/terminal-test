@@ -1,0 +1,36 @@
+/*selector{
+	property: value;
+}*/
+*{
+	color:#FECAE8;	
+	text-align: right;
+}
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80)
+}
+h2{
+	color:#FECAE8;
+	line-height:100px;
+	font-style:italic;
+	text-align: center;
+	border:50px dashed rgba(0,0,0,.3);
+	font-family: 'Codystar', cursive;
+	font-size: 500%
+
+} 
+p{
+	text-align: center;
+	color:#FECAE8;
+	line-height:50px;
+	font-style:italic;
+	font-weight: bold;
+	font-family: 'Poiret One', cursive;
+	font-size: 200%
+
+
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
